@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "bwduck.github.io/duck-hangman/precache-manifest.d596b32ebb0c9a8ca426f113c37e629c.js"
+  "/duck-hangman/precache-manifest.0ab98e19c351614d20b580adcaa5b854.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("bwduck.github.io/duck-hangman/index.html", {
+workbox.routing.registerNavigationRoute("/duck-hangman/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "bwduck.github.io/duck-hangman/static/css/main.ee6d8dbd.chunk.css",
-  "main.js": "bwduck.github.io/duck-hangman/static/js/main.ab6def1a.chunk.js",
-  "main.js.map": "bwduck.github.io/duck-hangman/static/js/main.ab6def1a.chunk.js.map",
-  "runtime~main.js": "bwduck.github.io/duck-hangman/static/js/runtime~main.9cf69e37.js",
-  "runtime~main.js.map": "bwduck.github.io/duck-hangman/static/js/runtime~main.9cf69e37.js.map",
-  "static/js/2.265db3a2.chunk.js": "bwduck.github.io/duck-hangman/static/js/2.265db3a2.chunk.js",
-  "static/js/2.265db3a2.chunk.js.map": "bwduck.github.io/duck-hangman/static/js/2.265db3a2.chunk.js.map",
-  "index.html": "bwduck.github.io/duck-hangman/index.html",
-  "precache-manifest.d596b32ebb0c9a8ca426f113c37e629c.js": "bwduck.github.io/duck-hangman/precache-manifest.d596b32ebb0c9a8ca426f113c37e629c.js",
-  "service-worker.js": "bwduck.github.io/duck-hangman/service-worker.js",
-  "static/css/main.ee6d8dbd.chunk.css.map": "bwduck.github.io/duck-hangman/static/css/main.ee6d8dbd.chunk.css.map"
+  "main.css": "/duck-hangman/static/css/main.ee6d8dbd.chunk.css",
+  "main.js": "/duck-hangman/static/js/main.1600219f.chunk.js",
+  "main.js.map": "/duck-hangman/static/js/main.1600219f.chunk.js.map",
+  "runtime~main.js": "/duck-hangman/static/js/runtime~main.6d404257.js",
+  "runtime~main.js.map": "/duck-hangman/static/js/runtime~main.6d404257.js.map",
+  "static/js/2.265db3a2.chunk.js": "/duck-hangman/static/js/2.265db3a2.chunk.js",
+  "static/js/2.265db3a2.chunk.js.map": "/duck-hangman/static/js/2.265db3a2.chunk.js.map",
+  "index.html": "/duck-hangman/index.html",
+  "precache-manifest.0ab98e19c351614d20b580adcaa5b854.js": "/duck-hangman/precache-manifest.0ab98e19c351614d20b580adcaa5b854.js",
+  "service-worker.js": "/duck-hangman/service-worker.js",
+  "static/css/main.ee6d8dbd.chunk.css.map": "/duck-hangman/static/css/main.ee6d8dbd.chunk.css.map"
 }
