@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/duck-hangman/static/js/runtime~main.6d404257.js"
   },
   {
-    "revision": "49c705de411495d6db8f",
+    "revision": "72f7eaee4cf26fefaad3",
     "url": "/duck-hangman/static/js/main.1600219f.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/duck-hangman/static/js/2.265db3a2.chunk.js"
   },
   {
-    "revision": "49c705de411495d6db8f",
-    "url": "/duck-hangman/static/css/main.ee6d8dbd.chunk.css"
+    "revision": "72f7eaee4cf26fefaad3",
+    "url": "/duck-hangman/static/css/main.0ae7280d.chunk.css"
   },
   {
-    "revision": "373ed090a034f96d0952509468fa614c",
+    "revision": "cfac3171619c0e967dcb81d6bb54732c",
     "url": "/duck-hangman/index.html"
   }
 ];
