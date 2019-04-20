@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/duck-hangman/static/css/main.0ae7280d.chunk.css"
   },
   {
-    "revision": "7e686b38068df85b7286cacc8194cab9",
+    "revision": "cfac3171619c0e967dcb81d6bb54732c",
     "url": "/duck-hangman/index.html"
   }
 ];
