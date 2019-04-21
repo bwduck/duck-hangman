@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/duck-hangman/static/js/runtime~main.6d404257.js"
   },
   {
-    "revision": "72f7eaee4cf26fefaad3",
-    "url": "/duck-hangman/static/js/main.1600219f.chunk.js"
+    "revision": "f2b9c8249ec284830980",
+    "url": "/duck-hangman/static/js/main.65f94e71.chunk.js"
   },
   {
     "revision": "af73d6773d1ee6a98067",
     "url": "/duck-hangman/static/js/2.265db3a2.chunk.js"
   },
   {
-    "revision": "72f7eaee4cf26fefaad3",
-    "url": "/duck-hangman/static/css/main.0ae7280d.chunk.css"
+    "revision": "f2b9c8249ec284830980",
+    "url": "/duck-hangman/static/css/main.2b68d1d7.chunk.css"
   },
   {
-    "revision": "2825cbd9460822adf94140244d69fe74",
+    "revision": "b02fb3707d7e3dfb4aa75f78a00e8d21",
     "url": "/duck-hangman/index.html"
   }
 ];
